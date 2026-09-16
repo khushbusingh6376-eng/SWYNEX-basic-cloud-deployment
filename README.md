@@ -1,0 +1,1 @@
+# SWYNEX-basic-cloud-deployment
